@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: lamhotjmsiagian
+Build-Jdk: 13.0.1
+Implementation-Title: tdd-05-01-project-begin
+Implementation-Version: 0.1.0
+Implementation-Vendor-Id: org.springframework
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/tdd-05-01-proj
+ ect-begin/
+Created-By: Maven Integration for Eclipse
+
